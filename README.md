@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const dev = {
@@ -32,16 +32,16 @@ const dev = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 Web
+###  Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 📱 Mobile
+###  Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Languages & Tools
@@ -51,7 +51,7 @@ const dev = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -67,13 +67,13 @@ const dev = {
 
 ---
 
-## 🧩 What I Do
+##  What I Do
 
 | Domain | What I Build |
 |---|---|
-| 🌐 **Web Dev** | Responsive UIs, SPAs, full-stack apps with React & Next.js |
-| 📱 **App Dev** | Cross-platform mobile apps using React Native |
-| 🧠 **DSA** | Problem solving, data structures, algorithms in Java & JS |
+|  **Web Dev** | Responsive UIs, SPAs, full-stack apps with React & Next.js |
+|  **App Dev** | Cross-platform mobile apps using React Native |
+|  **DSA** | Problem solving, data structures, algorithms in Java & JS |
 
 ---
 
@@ -81,13 +81,13 @@ const dev = {
 
 > *"The best way to get better at DSA is to solve one more problem."*
 
-- 🔥 Consistent problem solver
-- 💡 Loves arrays, trees, and dynamic programming
-- ☕ Powered by Java for competitive coding
+-  Consistent problem solver
+-  Loves arrays, trees, and dynamic programming
+-  Powered by Java for competitive coding
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
