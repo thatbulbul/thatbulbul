@@ -56,7 +56,6 @@ const dev = {
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatbulbul&theme=tokyonight" />
-![thatbulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbulbul&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
