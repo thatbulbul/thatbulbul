@@ -55,8 +55,8 @@ const dev = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thatbulbul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatbulbul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatbulbul&theme=tokyonight" />
+![thatbulbul's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatbulbul&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
