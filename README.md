@@ -11,7 +11,7 @@
 
 ### `< building things that live on screens and servers />`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%8C%90;App+Developer+%F0%9F%93%B1;DSA+Enthusiast+%F0%9F%A7%A9;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer+%F0%9F%8C%90;App+Developer+%F0%9F%93%B1;DSA+Enthusiast;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
