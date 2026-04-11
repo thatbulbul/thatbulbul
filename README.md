@@ -100,7 +100,12 @@ const dev = {
 ---
 
 <div align="center">
+  
+<br/>
 
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
 
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
