@@ -101,7 +101,7 @@ const dev = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=38bdf8&style=flat-square&label=Profile+Views)
+
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
